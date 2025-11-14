@@ -17,11 +17,6 @@ export default function Home() {
         <h1 className="mt-2 text-4xl font-semibold text-zinc-900">
           Nested bottom sheet
         </h1>
-        <p className="mt-2 max-w-md text-base text-zinc-600">
-          Launch the sheet to explore a multi-level navigation pattern inspired
-          by your reference imagery, complete with direction-aware transitions
-          plus drag-to-dismiss controls and full keyboard support.
-        </p>
       </div>
 
       <button
