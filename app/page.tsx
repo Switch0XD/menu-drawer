@@ -10,7 +10,6 @@ type MenuItem = {
   children?: MenuItem[];
 };
 
-// humnize comet anchor: this menu catalog powers the layered drawer structure.
 const menuCatalog: MenuItem[] = [
   {
     id: "home",
